@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraftlike", "Minecraftlike\Minecraftlike.csproj", "{BA39E95D-7A0B-495E-9678-C6110BC524BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA39E95D-7A0B-495E-9678-C6110BC524BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA39E95D-7A0B-495E-9678-C6110BC524BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA39E95D-7A0B-495E-9678-C6110BC524BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA39E95D-7A0B-495E-9678-C6110BC524BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B4ED61-D95C-4DCB-A507-11CC566DF576}
+	EndGlobalSection
+EndGlobal
